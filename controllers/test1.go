@@ -1,7 +1,7 @@
 package controllers
 
-import "fmt"
+import ("fmt")
 
-func Hi() {
-	fmt.Println("This me")
+func Hi()  {
+	fmt.Println("I'm Smitti")
 }

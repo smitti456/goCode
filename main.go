@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"goCode/controllers"
+	"gocode/controllers"
 )
 
 func main() {
